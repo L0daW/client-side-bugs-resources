@@ -36,7 +36,7 @@
 3. [Browser Security Series on YouTube](https://www.youtube.com/watch?v=fNhRaRSyADc&list=PLK-sc48BJ4hh5nnKqfVpLr80gVUYeUB1y&index=4)
    - [Part 2](https://www.youtube.com/watch?v=oNG2oqhHNqI&list=PLK-sc48BJ4hh5nnKqfVpLr80gVUYeUB1y&index=5&pp=iAQB)
    - [Part 3](https://www.youtube.com/watch?v=iUYkImnCcqw&list=PLK-sc48BJ4hh5nnKqfVpLr80gVUYeUB1y&index=4&pp=iAQB)
-4. [JS Analysis Live Recon Series on Youtube](https://www.facebook.com/share/p/yDzfW1vDmPz4WhHu/)
+4. [JS Analysis Live Recon Series on Youtube](https://youtube.com/playlist?list=PLWh6hDEMSbjM1DMbeWp3fCwv0SAzv4gmU&feature=shared)
 
 ## Blogs
 
@@ -53,6 +53,7 @@
 - [CSP Bypass Techniques and Mitigations](https://bugbase.ai/blog/csp-bypass-common-techniques-and-mitigations)
 - [CSP and Bypasses](https://www.cobalt.io/blog/csp-and-bypasses)
 - [CSP Bypass Guidelines](https://brutelogic.com.br/blog/csp-bypass-guidelines/)
+- [CSP Bypass Search](https://cspbypass.com/)
 
 ## Prottype Pollution
 
