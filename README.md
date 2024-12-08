@@ -25,10 +25,12 @@
 ## Challenges
 
 - [Public Firing Range (XSS Challenges)](https://public-firing-range.appspot.com/)
-- [XSS Challenges on Tunelko Blog](https://blogs.tunelko.com/2013/12/02/xss-challenges/)
+- [XSS Challenges on xss-quiz.int21h.jp](https://xss-quiz.int21h.jp/)
+- [XSS Solutions for xss-quiz.int21h.jp on Tunelko Blog](https://blogs.tunelko.com/2013/12/02/xss-challenges/)
 - [XSS Challenges on sudo.co.il](http://sudo.co.il/xss/)
-- [XSS Challenges on blogged-on.de](http://blogged-on.de/xss/)
-- [xss pwn](https://xss.pwnfunction.com/challenges/)
+- [XSS Challenges alert(1) to win](https://alf.nu/alert1?world=alert&level=alert0)
+- [XSS Pwnfunction](https://xss.pwnfunction.com/challenges/)
+- [XSS intigriti Monthly Challenges](https://bugology.intigriti.io/intigriti-monthly-challenges)
 
 ## Series
 1. [Fady Othman | How to analysis and deal with browser and DEV Tools](https://www.youtube.com/watch?v=nLMs1aXdkgk&list=PLcCG2wDOBXAWGn-_ZAWUfvwu_RkBtNxPt)
@@ -49,13 +51,13 @@
 
 ## CSP Resources
 
-- [Mozilla CSP Guide](https://www.notion.so/The-Tangled-web-dd7b67ef3d2843419affab7c8cb6e698?pvs=21)
+- [Mozilla CSP Guide](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
 - [CSP Bypass Techniques and Mitigations](https://bugbase.ai/blog/csp-bypass-common-techniques-and-mitigations)
 - [CSP and Bypasses](https://www.cobalt.io/blog/csp-and-bypasses)
 - [CSP Bypass Guidelines](https://brutelogic.com.br/blog/csp-bypass-guidelines/)
 - [CSP Bypass Search](https://cspbypass.com/)
 
-## Prottype Pollution
+## Prototype Pollution
 
 - [Portswigger](https://portswigger.net/web-security/prototype-pollution)
 - [Imperva | Prototype Pollution](https://www.imperva.com/learn/application-security/prototype-pollution/)
